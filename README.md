@@ -29,7 +29,7 @@
 
 <h2>Vamos Conectar?</h2>
 
-<p>Estou aberto a novas colaborações, discussões e aprendizados. Sinta-se à vontade para entrar em contato através do meu perfil no <a target="_blank" href="https://www.linkedin.com/in/rodrigo-cardoso-antonio-275078290/">LinkedIn</a> ou pelo meu e-mail <a href="mailto:rodrigo.cawebdev@gmail.com">rodrigo.cawebdev@gmail.com</a>. Vamos construir algo incrível juntos!</p>
+<p>Estou aberto a novas colaborações, discussões e aprendizados. Sinta-se à vontade para entrar em contato através do meu perfil no <a href="https://www.linkedin.com/in/rodrigo-cardoso-antonio-275078290/">LinkedIn</a> ou pelo meu e-mail <a href="mailto:rodrigo.cawebdev@gmail.com">rodrigo.cawebdev@gmail.com</a>. Vamos construir algo incrível juntos!</p>
 
 <p><strong>Muito obrigado por visitar o meu perfil! 🚀</strong></p>
 
